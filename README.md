@@ -6,6 +6,7 @@ We will be implementing techniques ranging from simple matching, to more complex
 The following techinques have been used : 
 
 - Matching
+- Bag of Visual Words
 
 
 *Repository implementation details : *
