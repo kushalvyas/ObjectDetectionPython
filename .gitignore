@@ -2,3 +2,6 @@
 */*.txt
 */*.pyc
 */MakeFile
+*/*.cmake
+*/BOV/images/
+*/BOV/*.pyc
